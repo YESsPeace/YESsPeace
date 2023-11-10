@@ -41,16 +41,20 @@ Here are some ideas to get you started:
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/YessPeace)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yesspeace_)
 
-<a href="https://gist.github.com/YESsPeace/073813b423cac16aceb3ea05fae26904">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=073813b423cac16aceb3ea05fae26904&theme=radical" />
-</a>
-
 <a href="https://github.com/EvaPeace/ai-news-telegram-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EvaPeace&repo=ai-news-telegram-bot&theme=radical" />
 </a>
 
 <a href="https://github.com/YESsPeace/simple-sign-language-recognition">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YESsPeace&repo=simple-sign-language-recognition&theme=radical" />
+</a>
+
+<a href="https://github.com/YESsPeace/RU_EGE_Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YESsPeace&repo=RU_EGE_Bot&theme=radical" />
+</a>
+
+<a href="https://gist.github.com/YESsPeace/073813b423cac16aceb3ea05fae26904">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=073813b423cac16aceb3ea05fae26904&theme=radical" />
 </a>
 
 <!--
