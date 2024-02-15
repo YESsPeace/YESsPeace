@@ -26,11 +26,16 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YESsPeace&layout=donut&theme=radical&hide=Jupyter+Notebook&langs_count=8&card_height=320" />
 </a>
 
+![]()
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YESsPeace&bg_color=141321&color=9bfed4&title_color=fd428d&line=fd428d&point=f8d847&custom_title=Contribution+Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
