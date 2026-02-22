@@ -29,38 +29,8 @@ Here are some ideas to get you started:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YESsPeace&bg_color=141321&color=9bfed4&title_color=fd428d&line=fd428d&point=f8d847&custom_title=Contribution+Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YESsPeace&layout=donut&theme=radical&hide=Jupyter+Notebook&langs_count=8&card_height=320" />
-</a>
-
-![]()
-
-<a href="https://github.com/EvaPeace/ai-news-telegram-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EvaPeace&repo=ai-news-telegram-bot&theme=radical" />
-</a>
-
-<a href="https://github.com/YESsPeace/simple-sign-language-recognition">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YESsPeace&repo=simple-sign-language-recognition&theme=radical" />
-</a>
-
-<a href="https://github.com/YESsPeace/RU_EGE_Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YESsPeace&repo=RU_EGE_Bot&theme=radical" />
-</a>
-
-<a href="https://gist.github.com/YESsPeace/073813b423cac16aceb3ea05fae26904">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=073813b423cac16aceb3ea05fae26904&theme=radical" />
-</a>
-
-
-
-<!--
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=YessPeace&theme=dark)](https://leetcode.com/YessPeace)
--->
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
